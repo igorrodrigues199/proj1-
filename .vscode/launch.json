@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://npm install --save-dev @types/aws-lambda",
+            "request": "launch",
+            "url": "http://npm install --save-dev @types/aws-lambda"
+        }
+    ]
+}
